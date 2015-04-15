@@ -1,0 +1,6 @@
+INDEX VERSION 1.127+C:\Users\KOSTA_03_001_\Desktop\javastudy_boardgame\javastudy_boardgame - workspace\.metadata\.plugins\org.eclipse.jdt.core
+474605721.index
+2027570005.index
+911976812.index
+3820164720.index
+1558944050.index
