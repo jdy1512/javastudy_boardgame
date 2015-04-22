@@ -1,0 +1,3 @@
+INDEX VERSION 1.127
+C:\Users\KOSTA_03_001_\Desktop\javastudy_boardgame\javastudy_boardgame - spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1324084716.index
+\boardgame\src

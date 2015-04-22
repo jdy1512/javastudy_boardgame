@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1429235374169_0" label="mod-socket-io" name="mod-socket-io"/>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1429238849093_1" label="mod-socket-io-master" name="mod-socket-io-master">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/mod-socket-io-master" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1429242165724_2" label="Window Working Set" name="Aggregate for window 1429242165724"/>
+</workingSetManager>

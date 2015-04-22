@@ -1,0 +1,5 @@
+package com.javastudy.boardgame.common.controller;
+
+public class FrontController {
+
+}
